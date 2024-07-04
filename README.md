@@ -12,3 +12,6 @@ Simple, Just use the Gnu C Compiler, or GCC. Just simply run `gcc unescape.c`!
 `unescaped.exe file.txt`
 ## Both
 Just drag your text file over the application
+
+# Credits
+Some guy on Stack Overflow, I cant find the post anymore but yeah, just reading thru 10yo comments
